@@ -1,0 +1,4 @@
+name: MinePlus
+version: '${version}'
+main: net.fredeun.mineplus.MinePlus
+api-version: '1.20'
